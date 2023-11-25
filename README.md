@@ -1,1 +1,1 @@
-# f2-contest-using-js
+# f2contest
